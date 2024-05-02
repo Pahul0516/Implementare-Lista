@@ -1,1 +1,1 @@
-# Lista
+Sa se implementeze in C++ o lista folosind o anumita reprezentare(indicata) si o lista inlantuita(LSI - lista simplu inlantuita, LDI - lista dublu inlantuita) ca structura de date, cu reprezentarea inlantuirilor pe tablou dinamic.
